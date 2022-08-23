@@ -2,10 +2,10 @@
 <h3 align="center">A third year student learning new things everyday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashayachit&label=Profile%20views&color=0e75b6&style=flat" alt="aakashayachit" /> </p>
+
 - 🎓 Pursuing Computer Science Engineering Degree from Pune University
 
-- 🔭 I’m currently working on **learning German**
-
+- 🔭 I’m currently working on **learning German** 
 
 - 🌱 I’m currently learning **Python and its applications**
 
