@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on **learning German**
 
+
 - 🌱 I’m currently learning **Python and its applications**
 
 - 📫 How to reach me **aakashayachit@gmail.com**
