@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashayachit&show_icons=true&locale=en" alt="aakashayachit" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashAyachit&theme=tokyonight)
+
