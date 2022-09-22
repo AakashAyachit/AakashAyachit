@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning German** 
 
-- 🌱 I’m currently learning **Python and its applications**
+- 🌱 I’m currently learning **Python and its applications, and AWS Cloud**
 
 - 📫 How to reach me **aakashayachit@gmail.com**
 
